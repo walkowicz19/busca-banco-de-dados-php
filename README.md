@@ -27,4 +27,4 @@ Antes de começar, vai precisar de ter instalado na sua máquina:
 1. **Clone o repositório:**
    
    ```bash
-   git clone [https://github.com/walkowicz19/busca-banco-de-dados-php.git](https://github.com/walkowicz19/busca-banco-de-dados-php.git)
+   git clone https://github.com/walkowicz19/busca-banco-de-dados-php.git
